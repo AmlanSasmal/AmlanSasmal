@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @AmlanSasmal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- A highly motivated & dedicated
+- Computer Science Engineering
+- student seeking opportunities to
+- apply technical skills and knowledge
+- in a challenging and dynamic
+- work environment.
+@ProblemSolver || @DataStructures || @QuickLearner
+working as a student open to explore & upskill myself
 
 <!---
 AmlanSasmal/AmlanSasmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
