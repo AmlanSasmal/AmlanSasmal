@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AmlanSasmal
 - A highly motivated & dedicated
-- Computer Science Engineering
-- student seeking opportunities to
+- Computer Science Engineering @NIT_JAMSHEDPUR
 - apply technical skills and knowledge
 - in a challenging and dynamic
 - work environment.
